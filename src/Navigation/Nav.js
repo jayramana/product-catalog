@@ -19,10 +19,10 @@ const Nav = ({ handleInputChange, query }) => {
         <a href="#">
           <FiHeart className="nav-icons hrt" />
         </a>
-        <a href="">
+        <a href="#">
           <AiOutlineShoppingCart className="nav-icons cart" />
         </a>
-        <a href="">
+        <a href="#">
           <AiOutlineUserAdd className="nav-icons file" />
         </a>
       </div>
