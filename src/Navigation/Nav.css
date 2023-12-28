@@ -7,6 +7,10 @@ nav {
   z-index: 999;
   margin-left: 2rem;
 }
+button{
+border: none;
+background-color: white;
+}
 .title{
   font-weight: 600;
   font-size: 2rem;
